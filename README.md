@@ -10,7 +10,7 @@ The personal project is the final pair project in Module 3 at Turing. It's a Rai
 
 ### Instructions
 
-* clone the project in your terminal by running `git clone git@github.com:acareaga/rails-engine.git`
+* clone the project in your terminal by running `git clone git@github.com:joshuajhun/my_trelora_leader_board.git`
 * start the server with `rails s` and visit `http://localhost:3000` in your preferred browser
 * to setup the database, run rake db:create db:migrate
 * to run the tests, run `bundle exec rake test` in the terminal
